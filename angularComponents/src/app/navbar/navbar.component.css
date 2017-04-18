@@ -1,5 +1,5 @@
 .navbar{
-    /*background-color: #2dc1cb !important;*/
+    /*background-color: #1976D2 !important;*/
     font-weight: 400;
 }
 
@@ -13,5 +13,5 @@
 }
 
 .navbar-brand {
-    padding: 0 !important;
+    padding: 0 !important; 
 }
