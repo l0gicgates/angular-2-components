@@ -1,0 +1,17 @@
+.navbar{
+    /*background-color: #2dc1cb !important;*/
+    font-weight: 400;
+}
+
+.navbar-toggler {
+    font-size: 13px;
+
+}
+
+.socialIcons {
+    font-size: 13px;
+}
+
+.navbar-brand {
+    padding: 0 !important;
+}
